@@ -1,0 +1,10 @@
+{
+    "version": "0.1.0",
+    "command": "chrome",
+    "windows": {
+        "command": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\chrome.exe"
+    },
+    "args": [
+        "localhost\\${workspaceRootFolderName}\\${fileBasename}"
+    ]
+}
